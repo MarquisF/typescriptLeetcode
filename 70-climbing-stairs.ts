@@ -6,6 +6,7 @@
  *
  * @param n
  * @returns
+ *
  */
 function climbStairs(n: number): number {
     if (n < 2) {
