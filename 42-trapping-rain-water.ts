@@ -8,20 +8,20 @@
  * @returns 
  */
 function trap(height: number[]): number {
-  let leftMax = height[0];
-  let rightMax = height[height.length - 1];
-  let left = 0;
-  let right = height.length - 1;
+  let leftHeighest = height[0];
+  let rightHeighest = height[height.length - 1];
+  let leftIndex = 0;
+  let rightIndex = height.length - 1;
   let result = 0;
-  while (left < right) {
-    leftMax = Math.max(height[left], leftMax);
-    rightMax = Math.max(height[right], rightMax);
-    if (height[left] < height[right]) {
-      result = result + leftMax - height[left]
-      left++;
+  while (leftIndex < rightIndex) {
+    leftHeighest = Math.max(leftHeighest, height[leftIndex]);
+    rightHeighest = Math.max(rightHeighest, height[rightIndex]);
+    if (height[leftIndex] < rightHeighest) {
+      result = result + leftHeighest - height[leftIndex];
+      leftIndex++;
     } else {
-      result = result + rightMax - height[right]
-      right--;
+      result = result + rightHeighest - height[rightIndex];
+      rightIndex--;
     }
   }
   return result;
