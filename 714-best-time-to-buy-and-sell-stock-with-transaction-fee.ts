@@ -10,12 +10,12 @@
 function maxProfit(prices: number[], fee: number): number {
   /**
    * The investor no longer holds shares after
-   *  this trading hour ends.
+   *  the day's trading hour ends.
    */
   let profitWithoutShares = 0;
   /**
    * The investor is still holding shares after
-   *  this trading hour ends.
+   *  the day's trading hour ends.
    */
   let profitWithShares = - prices[0];
   const length = prices.length;
