@@ -5,6 +5,8 @@
  *  dp[j] &&
  *  (If s[i ... j - 1] is included in the dictionary)
  * 
+ * 👆 And therefore it's i <= s.length not i < s.length
+ * 
  * Time complexity: O(n^2)
  * Space complexity: O(n)
  * 
