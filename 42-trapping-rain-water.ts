@@ -3,6 +3,16 @@
  *
  * Time complexity: O(n)
  * Space complexity: O(1)
+ * 
+ * 👇leftHeighest        👇rightHeighest
+ *                 |
+ *             |   |   |
+ * |           |   | | | |
+ * |         | | | | | | |
+ * ---------------------------------
+ * 0         1 2 3 4 5 6 7
+ * ⬆️                    ⬆️
+ * leftIndex 🏃‍♀️👉    🏃👈 rightIndex
  *
  * @param height 
  * @returns 
