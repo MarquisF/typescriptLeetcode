@@ -1,3 +1,12 @@
+/**
+ * The dynamic programming implementation of 91.
+ *
+ * Time complexity: O(n)
+ * Space complexity: O(1)
+ *
+ * @param s
+ * @returns
+ */
 function numDecodings(s: string): number {
   if (s[0] === '0') return 0;
   const length = s.length;
