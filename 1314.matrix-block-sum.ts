@@ -1,4 +1,3 @@
-
 /**
  * The 2D prefix sum solution of 1314. Matrix block sum
  *
@@ -6,7 +5,7 @@
  * @param k
  * @returns
  */
-function matrixBlockSum(mat: number[][], k: number): number[][] {
+ function matrixBlockSum(mat: number[][], k: number): number[][] {
   type Matrix = Array<number[]>
 
   const prefixSumMat: Matrix = [];
@@ -14,13 +13,13 @@ function matrixBlockSum(mat: number[][], k: number): number[][] {
   const matColsCount = mat[0].length;
   for (let i = 0; i < matRowsCount; i++) {
     const newPrefixSumRow: number[] = [];
-    let rowAccumulation = 0;
+    let rowAccumulatedSum = 0;
     for (let j = 0; j < matColsCount; j++) {
+      rowAccumulatedSum += mat[i][j];
       newPrefixSumRow.push(
-        rowAccumulation + mat[i][j] +
+        rowAccumulatedSum +
         (prefixSumMat[i - 1] !== undefined ? prefixSumMat[i - 1][j] : 0),
       );
-      rowAccumulation += mat[i][j];
     }
     prefixSumMat.push(newPrefixSumRow);
   }
