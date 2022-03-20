@@ -1,5 +1,5 @@
 /**
- * The 2D prefix sum solution of 1314. Matrix block sum
+ * The 2D prefix sum(Chinese: 二维前缀和) solution of 1314. Matrix block sum
  *
  * @param mat
  * @param k
