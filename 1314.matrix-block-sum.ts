@@ -14,13 +14,13 @@ function matrixBlockSum(mat: number[][], k: number): number[][] {
   const matColsCount = mat[0].length;
   for (let i = 0; i < matRowsCount; i++) {
     const newPrefixSumRow: number[] = [];
-    let rowAccumulatedSum = 0;
+    let rowAccumulation = 0;
     for (let j = 0; j < matColsCount; j++) {
       newPrefixSumRow.push(
-        rowAccumulatedSum + mat[i][j] +
+        rowAccumulation + mat[i][j] +
         (prefixSumMat[i - 1] !== undefined ? prefixSumMat[i - 1][j] : 0),
       );
-      rowAccumulatedSum += mat[i][j];
+      rowAccumulation += mat[i][j];
     }
     prefixSumMat.push(newPrefixSumRow);
   }
