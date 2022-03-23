@@ -4,12 +4,12 @@ I have created a typescript file for each question I have solved and placed them
 
 Each folder is named after the type of the common solution that the questions in the folder have, although not every question solution I provided is solved with this common solution. The classification of these common solutions is mainly from some learning plans provided by the leetcode platform.
 
-I have listed my solutions below according to different solution types.
+I have listed my solutions below according to different solution types. You can search directly on them by name to find their locations if you are interested in some of the solutions.
 
 ## Dynamic programming
 (Folder name: dynamicProgramming)
 
-1014-best-sightseeing-pair.ts
+dynamicProgramming/1014-best-sightseeing-pair.ts
 
 1137-tribonacci-number.ts
 
