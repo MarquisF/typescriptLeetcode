@@ -1,8 +1,8 @@
 # Typescript Leetcode
 
-I have created a typescript file for each question I have solved and placed them in different folders.
+I have created a typescript file for each Leetcode question I have solved and placed them in different folders.
 
-Each folder is named after the type of the common solution that the questions in the folder have, although not every question solution I provided is solved with this common solution. The classification of these common solutions is mainly from some learning plans provided by the leetcode platform.
+Each folder is named after the type of the common solution that the questions in the folder have, although not every question solution I provided is solved with this common solution. The classification of these common solutions is mainly from some learning plans provided by the Leetcode platform.
 
 I have listed my solutions below according to different solution types. You can search directly on them by name to find their locations if you are interested in some of the solutions.
 
