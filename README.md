@@ -1,4 +1,4 @@
-# TypescriptLeetcode
+# Typescript Leetcode
 
 I have created a typescript file for each question I have solved and placed them in different folders.
 
