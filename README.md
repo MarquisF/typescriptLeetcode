@@ -6,9 +6,9 @@ Each folder is named after the type of the common solution that the questions in
 
 I have listed my solutions below according to different solution types. You can search directly on them by name to find their locations if you are interested in some of the solutions.
 
-[Dynamic programming](#dynamic-programming)
+- [Dynamic programming](#dynamic-programming)
 
-[Unclassified](#unclassified)
+- [Unclassified](#unclassified)
 
 ## Dynamic programming
 (Folder name: dynamicProgramming)
