@@ -4,7 +4,7 @@ Each folder is named after the type of the common solution that the questions in
 
 I have listed my solutions below according to different solution types.
 
-### Dynamic programming
+## Dynamic programming
 (Folder name: dynamicProgramming)
 
 1014-best-sightseeing-pair.ts
