@@ -1,5 +1,5 @@
 /**
- * The greedy algorighm implementation of 55. Jumb Game.
+ * The greedy algorighm implementation of 55. Jump Game.
  *
  * @param nums
  * @returns
