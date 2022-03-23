@@ -87,6 +87,8 @@ dynamicProgramming/300.longest-increasing-subsequence.ts
 
 dynamicProgramming/376-wiggle-subsequence.ts
 
+dynamicProgramming/392-is-subsequence.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
