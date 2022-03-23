@@ -97,28 +97,4 @@ unclassified/1-two-sum.ts
 
 unclassified/217-contains-duplicate.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dynamicProgramming/977-square-of-a-sorted-array.ts
+unclassified/977-square-of-a-sorted-array.ts
