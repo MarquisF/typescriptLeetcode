@@ -2,8 +2,15 @@
  * Levenstein distance(Chinese：莱文斯坦距离):
  * https://en.wikipedia.org/wiki/Levenshtein_distance
  *
- * This distance was considered by a soviet mathematician named
+ * This distance was considered by a Soviet mathematician named
  *  Vladimir Levenstein(Russian: Влади́мир Ио́сифович Левенште́йн).
+ *
+ * Time complexity: O(mn)
+ * Space complexity: O(mn)
+ *
+ * @param word1
+ * @param word2
+ * @returns
  */
 function minDistance(word1: string, word2: string): number {
   const word1Length = word1.length;
