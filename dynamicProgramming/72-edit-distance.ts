@@ -39,13 +39,14 @@ function minDistance(word1: string, word2: string): number {
   // If word1 == "horse" && word2 == "ros",
   //  after the following two loop operations the matrix will be
   //   [
-  //     [ 0, 0, 0, 0 ],
-  //     [ 0, 0, 0, 0 ],
-  //     [ 0, 0, 0, 0 ],
-  //     [ 0, 0, 0, 0 ],
-  //     [ 0, 0, 0, 0 ],
-  //     [ 0, 0, 0, 0 ]
+  //     [ 0, 1, 2, 3 ],
+  //     [ 1, 0, 0, 0 ],
+  //     [ 2, 0, 0, 0 ],
+  //     [ 3, 0, 0, 0 ],
+  //     [ 4, 0, 0, 0 ],
+  //     [ 5, 0, 0, 0 ]
   //   ]
+  //
   //
   for (let i = 0; i <= word1Length; i++) {
     levDp[i][0] = i;
