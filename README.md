@@ -89,6 +89,8 @@ dynamicProgramming/376-wiggle-subsequence.ts
 
 dynamicProgramming/392-is-subsequence.ts
 
+dynamicProgramming/1143-longest-common-subsequence.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
