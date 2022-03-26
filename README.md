@@ -95,6 +95,10 @@ dynamicProgramming/1143-longest-common-subsequence.ts
 
 dynamicProgramming/72-edit-distance.ts
 
+dynamicProgramming/322-coin-change.ts
+
+dynamicProgramming/518-coin-change.ts *
+
 ## Unclassified
 
 (Folder name: unclassified)
