@@ -104,6 +104,9 @@ dynamicProgramming/322-coin-change.ts
 dynamicProgramming/518-coin-change.ts *
 
 dynamicProgramming/377-combination-sum-iv.ts
+
+dynamicProgramming/343-integer-break.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
