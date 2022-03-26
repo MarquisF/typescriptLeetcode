@@ -14,7 +14,9 @@ function change(amount: number, coins: number[]): number {
    */
   const dp = new Array(amount + 1).fill(0);
   dp[0] = 1;
-  for (let coin of coins) {
+for (let coin of coins) {
+    // TODO: I think introducing some breaks might reduce
+    //  unnecessary calculations.
     for (let i = coin; i <= amount; i ++) {
       dp[i] = dp[i] + dp[i - coin];
     }
