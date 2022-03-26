@@ -10,6 +10,8 @@ I have listed my solutions below according to different solution types. You can 
 
 - [Unclassified](#unclassified)
 
+- [Data structure](#data-structure)
+
 ## Dynamic programming
 (Folder name: dynamicProgramming)
 
@@ -110,6 +112,9 @@ dynamicProgramming/377-combination-sum-iv.ts
 dynamicProgramming/343-integer-break.ts
 
 dynamicProgramming/279-perfect-squares.ts
+
+## Data structure
+dataStructure/217-contains-duplicate.ts
 
 ## Unclassified
 
