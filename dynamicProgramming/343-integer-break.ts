@@ -15,7 +15,7 @@ function integerBreak(n: number): number {
   const dp: number[] = [0, 0];
   for (let i = 2; i <= n; i ++) {
     let currentMax = 0;
-    // The following index "firstBreakedInt" stands for
+    // The following index "firstBreakedInt" indicates
     //  the first positive integer breaked from i.
     // Where 1 <= firstBreakedInt < i because the number 1 is not breakable.
     //
