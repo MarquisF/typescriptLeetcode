@@ -40,7 +40,7 @@ function numSquares(n: number): number {
 
     let leastCount = Infinity;
     for (const squareNum of squareNumList) {
-      // Prevent useless calculations in for of loop.
+      // Prevent useless calculations in the for of loop.
       if (squareNum >= i) {
         break;
       }

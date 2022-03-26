@@ -109,6 +109,8 @@ dynamicProgramming/377-combination-sum-iv.ts
 
 dynamicProgramming/343-integer-break.ts
 
+dynamicProgramming/279-perfect-squares.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
