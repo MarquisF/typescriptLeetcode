@@ -21,8 +21,8 @@ function numSquares(n: number): number {
    *  square numbers that sum to i.
    *
    * dp[i]:
-   *  condition 1 -- 1 --------- i is a square number itself;
-   *  condition 2 -- getMinCountBySquareNumList(i) ---i is not a square number.
+   *  condition 1 -- 1 ------------------------------- i is a square number itself;
+   *  condition 2 -- getMinCountBySquareNumList(i) --- i is not a square number.
    *
    * getMinCountBySquareNumList(i):
    *  Find all square numbers which are smaller than i,
