@@ -99,7 +99,7 @@ dynamicProgramming/72-edit-distance.ts
 
 dynamicProgramming/322-coin-change.ts
 
-*The following problems might be related to [the knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)*
+*The following problems might be related to [the knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem).*
 
 dynamicProgramming/518-coin-change.ts *
 
