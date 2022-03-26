@@ -35,6 +35,8 @@ dynamicProgramming/45-jump-game-ii.ts
 
 dynamicProgramming/53-maximum-subarray.ts
 
+dynamicProgramming/918-maximum-sum-circular-subarray.ts
+
 dynamicProgramming/152-maximum-product-subarray.ts
 
 dynamicProgramming/1567-maximum-length-of-subarray-with-positive-product.ts
