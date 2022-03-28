@@ -114,7 +114,12 @@ dynamicProgramming/343-integer-break.ts
 dynamicProgramming/279-perfect-squares.ts
 
 ## Data structure
+
+(Folder name: dataStructure)
+
 dataStructure/217-contains-duplicate.ts
+
+dataStructure/1-two-sum.ts
 
 dataStructure/88-merge-sorted-array.ts
 
@@ -123,8 +128,6 @@ dataStructure/88-merge-sorted-array.ts
 (Folder name: unclassified)
 
 unclassified/189-rotate-array.ts
-
-unclassified/1-two-sum.ts
 
 unclassified/217-contains-duplicate.ts
 
