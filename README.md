@@ -116,6 +116,8 @@ dynamicProgramming/279-perfect-squares.ts
 ## Data structure
 dataStructure/217-contains-duplicate.ts
 
+dataStructure/88-merge-sorted-array.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
