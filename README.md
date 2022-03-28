@@ -123,6 +123,8 @@ dataStructure/1-two-sum.ts
 
 dataStructure/88-merge-sorted-array.ts
 
+dataStructure/350-intersection-of-two-arrays-ii.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
