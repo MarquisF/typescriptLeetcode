@@ -8,9 +8,9 @@ I have listed my solutions below according to different solution types. You can 
 
 - [Dynamic programming](#dynamic-programming)
 
-- [Unclassified](#unclassified)
-
 - [Data structure](#data-structure)
+
+- [Unclassified](#unclassified)
 
 ## Dynamic programming
 (Folder name: dynamicProgramming)
