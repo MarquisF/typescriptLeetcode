@@ -129,6 +129,4 @@ dataStructure/88-merge-sorted-array.ts
 
 unclassified/189-rotate-array.ts
 
-unclassified/217-contains-duplicate.ts
-
 unclassified/977-square-of-a-sorted-array.ts
