@@ -127,6 +127,10 @@ dataStructure/350-intersection-of-two-arrays-ii.ts
 
 dynamicProgramming/121-best-time-to-buy-and-sell-stock.ts
 
+dataStructure/566-reshape-the-matrix
+
+dynamicProgramming/118-pascals-triangle.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
