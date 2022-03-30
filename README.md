@@ -125,6 +125,8 @@ dataStructure/88-merge-sorted-array.ts
 
 dataStructure/350-intersection-of-two-arrays-ii.ts
 
+dynamicProgramming/121-best-time-to-buy-and-sell-stock.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
