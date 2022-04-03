@@ -135,6 +135,7 @@ dataStructure/36-valid-sudoku.ts
 
 dataStructure/73-set-matrix-zeroes.ts
 
+dataStructure/383-ransom-note.ts
 
 ## Unclassified
 
