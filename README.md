@@ -131,6 +131,8 @@ dataStructure/566-reshape-the-matrix
 
 dynamicProgramming/118-pascals-triangle.ts
 
+dataStructure/36-valid-sudoku.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
