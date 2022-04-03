@@ -139,6 +139,8 @@ dataStructure/383-ransom-note.ts
 
 dataStructure/242-valid-anagram.ts
 
+dataStructure/141-linked-list-cycle.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
