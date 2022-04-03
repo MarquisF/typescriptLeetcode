@@ -133,6 +133,9 @@ dynamicProgramming/118-pascals-triangle.ts
 
 dataStructure/36-valid-sudoku.ts
 
+dataStructure/73-set-matrix-zeroes.ts
+
+
 ## Unclassified
 
 (Folder name: unclassified)
