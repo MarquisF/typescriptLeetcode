@@ -137,6 +137,8 @@ dataStructure/73-set-matrix-zeroes.ts
 
 dataStructure/383-ransom-note.ts
 
+dataStructure/242-valid-anagram.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
