@@ -141,6 +141,8 @@ dataStructure/242-valid-anagram.ts
 
 dataStructure/141-linked-list-cycle.ts
 
+dataStructure/21-merge-two-sorted-lists.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
