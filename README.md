@@ -147,6 +147,8 @@ dataStructure/203-remove-linked-list-elements.ts
 
 dataStructure/206-reverse-linked-list.ts
 
+dataSttructure/20-valid-parenthese.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
