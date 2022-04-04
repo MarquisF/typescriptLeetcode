@@ -149,6 +149,8 @@ dataStructure/206-reverse-linked-list.ts
 
 dataSttructure/20-valid-parenthese.ts
 
+dataStructure/232-implement-queue-using-stacks.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
