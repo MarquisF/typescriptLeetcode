@@ -145,6 +145,8 @@ dataStructure/21-merge-two-sorted-lists.ts
 
 dataStructure/203-remove-linked-list-elements.ts
 
+dataStructure/206-reverse-linked-list.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
