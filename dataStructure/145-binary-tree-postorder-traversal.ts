@@ -20,7 +20,7 @@
 
 function postorder(root: TreeNode | null, result: number[]) {
   if (root === null) return;
+  postorder(root.left, result);
   postorder(root.right, result);
   result.push(root.val);
-  postorder(root.left, result);
 }
