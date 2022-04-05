@@ -149,7 +149,11 @@ dataStructure/206-reverse-linked-list.ts
 
 dataSttructure/20-valid-parenthese.ts
 
-dataStructure/232-implement-queue-using-stacks.ts
+dataStructure/144-binary-tree-preorder-traversal.ts
+
+dataStructure/94-binary-tree-inorder-traversal.ts
+
+dataStructure/145-binary-tree-postorder-traversal.ts
 
 ## Unclassified
 
