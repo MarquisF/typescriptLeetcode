@@ -159,6 +159,8 @@ dataStructure/102-binary-tree-level-order-traversal.ts
 
 dataStructure/104-maximum-depth-of-binary-tree.ts
 
+dataStructure/101-symmetric-tree.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
