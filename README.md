@@ -161,6 +161,10 @@ dataStructure/104-maximum-depth-of-binary-tree.ts
 
 dataStructure/101-symmetric-tree.ts
 
+dataStructure/226-invert-binary-tree.ts
+
+dataStructure/112-path-sum.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
