@@ -165,6 +165,18 @@ dataStructure/226-invert-binary-tree.ts
 
 dataStructure/112-path-sum.ts
 
+dataStructure/700-search-in-a-binary-search-tree.ts
+
+dataStructure/701-insert-into-a-binary-search-tree.ts
+
+dataStructure/702-validate-binary-search-tree
+
+dataStructure/653-two-sum-iv-input-is-a-bst.ts
+
+dataStructure/235-lowest-common-ancestor-of-a-binary-search-tree.ts
+
+dataStructure/387-first-unique-character-in-a-string.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
