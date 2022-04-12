@@ -179,6 +179,8 @@ dataStructure/387-first-unique-character-in-a-string.ts
 
 dataStructure/136-single-number.ts
 
+dataStructure/169-majority-element.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
