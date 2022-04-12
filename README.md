@@ -177,6 +177,8 @@ dataStructure/235-lowest-common-ancestor-of-a-binary-search-tree.ts
 
 dataStructure/387-first-unique-character-in-a-string.ts
 
+dataStructure/136-single-number.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
