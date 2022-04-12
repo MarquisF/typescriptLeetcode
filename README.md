@@ -181,6 +181,8 @@ dataStructure/136-single-number.ts
 
 dataStructure/169-majority-element.ts
 
+dataStructure/15-3sum.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
