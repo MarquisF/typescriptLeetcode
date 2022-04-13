@@ -183,6 +183,10 @@ dataStructure/169-majority-element.ts
 
 dataStructure/15-3sum.ts
 
+dataStructure/75-sort-colors.ts
+
+dataStructure/56-merge-intervals.ts
+
 ## Unclassified
 
 (Folder name: unclassified)
